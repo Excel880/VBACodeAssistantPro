@@ -1,6 +1,6 @@
 # VBACodeAssistantPro
 VBA代码助手专业版
-官网地址 vbayyds.com
+官网地址 https://vbayyds.com
 
 重磅更新 VBA实时输入提示 VBA智能输入法 VBA中文输入提示 打字英文或者中文即时提示
 
